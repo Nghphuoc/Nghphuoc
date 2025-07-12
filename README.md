@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Hữu Phước</h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Hữu Phước You can call me Jayki!</h1>
 <h3 align="center">A passionate Fullstack Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
@@ -54,16 +54,8 @@
 ### 📌 Pinned Projects (gợi ý)
 
 > Vào GitHub, pin các repo quan trọng nhất của bạn:
-- 🔹 `realtime-chat-app`: Chat đa người dùng (WebSocket, FastAPI, React)
-- 🔹 `ecommerce-AI-search`: Tìm kiếm sản phẩm bằng AI (Next.js, NLP)
+- 🔹 `realtime-chat-app`: Chat đa người dùng (WebSocket, FastAPI, Next.js)
+- 🔹 `ecommerce-AI-search`: Tìm kiếm sản phẩm bằng AI (Java, React, NLP)
 - 🔹 `portfolio-site`: Trang web cá nhân Next.js hiển thị kỹ năng và dự án
 
 ---
-
-Nếu bạn muốn mình thiết kế thêm banner, ảnh nền hoặc thêm động (animation/typing effect), chỉ cần nói nhé!
-
-> ✅ Ngoài ra, bạn cần tạo repo `nguyenhuuphuoc` (nếu chưa có) và đẩy file `README.md` này vào. Nếu bạn dùng tên GitHub khác, chỉ cần đổi `username=` trong link stats là xong.
-
----
-
-Bạn muốn mình tạo thêm **portfolio site với Next.js** hoặc **CV dạng web** để link trên GitHub không? Mình có thể tạo mẫu cho bạn.
