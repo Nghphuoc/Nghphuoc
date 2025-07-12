@@ -39,6 +39,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nghphuoc&layout=compact&theme=tokyonight" />
 </p>
+
 ---
 
 ### 🌐 Connect with me
@@ -57,4 +58,3 @@
 - 🔹 `ecommerce-AI-search`: Tìm kiếm sản phẩm bằng AI (Java, React, NLP)
 - 🔹 `portfolio-site`: Trang web cá nhân Next.js hiển thị kỹ năng và dự án
 
----
