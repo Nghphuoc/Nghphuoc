@@ -49,12 +49,3 @@
   <a href="https://www.facebook.com/Huuphuoc.1025"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 </p>
 
----
-
-### 📌 Pinned Projects (gợi ý)
-
-> Vào GitHub, pin các repo quan trọng nhất của bạn:
-- 🔹 `realtime-chat-app`: Chat đa người dùng (WebSocket, FastAPI, Next.js)
-- 🔹 `ecommerce-AI-search`: Tìm kiếm sản phẩm bằng AI (Java, React, NLP)
-- 🔹 `portfolio-site`: Trang web cá nhân Next.js hiển thị kỹ năng và dự án
-
