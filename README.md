@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Hữu Phước You can call me Jayki!</h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Hữu Phước. You can call me Jayki!</h1>
 <h3 align="center">A passionate Fullstack Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
